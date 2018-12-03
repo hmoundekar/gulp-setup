@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules/
+/.tmp
+/.sass-cache
+/.sass-cache/*
+*.css.map
+*.sass.map
+*.scss.map
+/bower_component
+dist/
+assets/css/
+/.DS_Store
+*.DS_Store
+assets/css/custom.css
+package-lock.json
